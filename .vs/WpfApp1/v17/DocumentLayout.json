@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 \u041A\u0443\u0440\u0441\\\u041C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\Lab_1(2)\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1459C54-CA57-41CA-89A2-6F8994707933}|WpfApp1\\WpfApp1.csproj|d:\\3 \u043A\u0443\u0440\u0441\\\u043C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\lab_1(2)\\wpfapp1\\wpfapp1\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1459C54-CA57-41CA-89A2-6F8994707933}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1459C54-CA57-41CA-89A2-6F8994707933}|WpfApp1\\WpfApp1.csproj|d:\\3 \u043A\u0443\u0440\u0441\\\u043C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\lab_1(2)\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1459C54-CA57-41CA-89A2-6F8994707933}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1459C54-CA57-41CA-89A2-6F8994707933}|WpfApp1\\WpfApp1.csproj|d:\\3 \u043A\u0443\u0440\u0441\\\u043C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\lab_1(2)\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1459C54-CA57-41CA-89A2-6F8994707933}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "D:\\3 \u041A\u0443\u0440\u0441\\\u041C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\Lab_1(2)\\WpfApp1\\WpfApp1\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\WeatherInfo.cs",
+              "ToolTip": "D:\\3 \u041A\u0443\u0440\u0441\\\u041C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\Lab_1(2)\\WpfApp1\\WpfApp1\\WeatherInfo.cs",
+              "RelativeToolTip": "WpfApp1\\WeatherInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:43:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\3 \u041A\u0443\u0440\u0441\\\u041C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\Lab_1(2)\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\3 \u041A\u0443\u0440\u0441\\\u041C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\Lab_1(2)\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T11:05:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u041A\u0443\u0440\u0441\\\u041C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\Lab_1(2)\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\3 \u041A\u0443\u0440\u0441\\\u041C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0446\u0435\u0441\u043E\u0440\u043D\u0430 \u0442\u0435\u0445\u043D\u0456\u043A\u0430\\Lab_1(2)\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:05:50.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
